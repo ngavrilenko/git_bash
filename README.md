@@ -3,3 +3,6 @@
 
 [Работа с базовыми командами Bash](https://github.com/ngavrilenko/git_bash/blob/4fcaf6cc53b4f1c88eb21b8035742efebb01d102/bash1.txt)
 
+
+[Работа с редактированием папок и файлов в bash](https://github.com/ngavrilenko/git_bash/blob/b77ade38cfb005937fe2d2ac3681c43998467145/bash2.txt)
+
