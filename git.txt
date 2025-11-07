@@ -12,17 +12,15 @@ cd testrusau
 
 Копирование содержимого из testrusau в ngavrilenko 
 cp -r testrusau ngavrilenko             
-                   
+
 Индексирование всех изменённых файлов 
 git add . 
 
 Создание коммита с сообщением
 git commit -m "Оформление портфолио"  
-                                                 
+
 Отправление изменений в удаленный репозиторий
-git push   
+git push
 
-
- 
 
 
