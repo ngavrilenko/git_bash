@@ -5,7 +5,6 @@
 
 [Управление файлами и папками в Bash через терминал Visual Studio Code](https://github.com/ngavrilenko/git_bash/blob/b77ade38cfb005937fe2d2ac3681c43998467145/bash2.txt)
 
-
 Так же посредством использования различных команд Git, мною было создано портфолио на GitHub.
 
 [Создание и управление портфолио на GitHub с помощью Git](https://github.com/ngavrilenko/git_bash/blob/e84185a3dd90ba7fb0c1eb149922e9952a0e70e6/git.txt)
